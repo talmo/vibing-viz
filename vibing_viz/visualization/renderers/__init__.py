@@ -1,0 +1,1 @@
+"""Rendering components for visualization."""
