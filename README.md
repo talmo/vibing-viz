@@ -146,7 +146,7 @@ viz.export_video(
 
 ## Documentation
 
-Full documentation is available at [vibing-viz.readthedocs.io](https://vibing-viz.readthedocs.io).
+Full documentation is available at [talmo.github.io/vibing-viz](https://talmo.github.io/vibing-viz).
 
 ## Contributing
 
